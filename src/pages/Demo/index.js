@@ -342,6 +342,7 @@ const Demo = () => {
   const submit = () => {
     console.log(containerRef, graph.toJSON());
   };
+  // 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
 
   return (
     <div style={{ display: 'flex', padding: 24 }} className={styles.demo}>
